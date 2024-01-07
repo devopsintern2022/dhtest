@@ -28,6 +28,8 @@
   "esmodules": [
     "script/dark-heresy.js"
   ],
+  "styles": [
+    "css/dark-heresy.css"
   "packs": [
     {
       "name": "character-aptitudes",
