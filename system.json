@@ -1,6 +1,6 @@
 {
-  "id": "dark-heresy",
-  "title": "Dark Heresy 2E",
+  "id": "dhtesting",
+  "title": "DH2",
   "description": "Unofficial Foundry VTT System for Dark Heresy 2nd Edition.",
   "version": "4.2.9",
   "minimumCoreVersion" : 11,
